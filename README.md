@@ -20,8 +20,8 @@ Sucessfully extracted and loaded the entire sales database from MySQL into Power
 ### Data Cleaning:
   - Removed empty cities
   - Removed sales transaction amounts containing 0 or negative values
-  - Changed 'currency' from USD to INR where applicable
-  - Removed currency duplication
+  - Changed currency from USD to INR where applicable
+  - Removed currency duplications
 ## Key Charts & Visuals
 - Total Revenue
 - Total Qunatity Sold
