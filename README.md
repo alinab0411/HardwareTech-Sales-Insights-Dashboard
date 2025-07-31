@@ -11,15 +11,15 @@ To automate sales insights for HardwareTech using Power BI, in hopes of reducing
 - MySQL
 - Power BI Desktop
 - Power Query
-- ETL
+- ETL (Extract, Transform, Load)
 - DAX (Data Analysis Expressions)
 ## Discovering Insights
-Used MySQL to discover basic sales insights. Utilized 'JOIN','WHERE','DISTINCT' statements and logical operators to discover key insights, and to check for missing data, negative values and redundant enteries.
+Used MySQL to discover basic sales insights. Utilized **JOIN**, **WHERE**, **DISTINCT** statements and logical operators to discover key insights, and to check for missing data, negative values and redundant enteries.
 ## ETL, Data Cleaning & Modelling
 Sucessfully extracted and loaded the entire sales database from MySQL into Power BI, analyzed the data model using star schema, and transformed sales data using Power Query.
 ### Data Cleaning:
-  - Removed empty cities from 'markets'.
-  - Removed 'sales_amount' containing 0 or negative values
+  - Removed empty cities
+  - Removed sales transaction amounts containing 0 or negative values
   - Changed 'currency' from USD to INR where applicable
   - Removed currency duplication
 ## Key Charts & Visuals
