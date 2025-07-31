@@ -1,7 +1,7 @@
 ## Project Title
 HardwareTech Sales Insights Dashboard
 ## Objective
-To automate sales insights for HardwareTech using Power BI, in hopes of reducing manual time and effectively support the sales team and manager in data-driven decision making.
+To automate sales insights for HardwareTech using Power BI, in hopes of reducing manual time and effectively supporting the sales team and manager in data-driven decision making.
 ## Dataset
 - Source: Sales Insights (CodeBasics)
 - Type: Retail Transactional Database
