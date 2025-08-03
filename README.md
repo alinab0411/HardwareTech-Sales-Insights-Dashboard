@@ -28,7 +28,7 @@ Sucessfully extracted and loaded the entire sales database from MySQL into Power
 - Total Profit Margin and %
 - Monthly & Yearly Revenue Trends
 - Top Markets and Customers
-- Percentage of qunatity sold across market types
+- Percentage of quantity sold across market types
 ## Key Insights
 - **Highest sales** occured in January and August, **2018**.
 - **Delhi** and **Mumbai** contributed significantly to both Revenue and Profit Margin.
