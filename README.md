@@ -32,8 +32,14 @@ Sucessfully extracted and loaded the entire sales database from MySQL into Power
 ## Key Insights
 - **Highest sales** occured in January and August, **2018**.
 - **Delhi** and **Mumbai** contributed significantly to both Revenue and Profit Margin.
-- Highest qunatity of hardware was sold to **Electricalsara Stores**.
+- Highest quantity of hardware was sold to **Electricalsara Stores**.
 - **Brick & Mortar** customers contributed to approx. **77%** of total revenues.
 - The total revenues for HardwareTech are consistently declining since July 2019.
+## Points-to-Ponder
+- Why is there a consistent decline in HardwareTech's sales since 2019?
+- What was done right in August 2018 that led to maximum revenues?
+- What business strategies can assist HardwareTech in recovering its market position?
+- Should HardwareTech increase its target market, or continue selling to Brick & Mortar, as of now?
+- Can new cities be incorporated in the business startegy, and if so, how can production costs be managed?
 ## Outcome
 This project simulates a real-world business reporting scenario, using Power BI to generate quick insights for decision-makers. It demonstrates foundational data analysis skills in RDBMS, spreadsheet and visualization tools; an essential skill for any analyst.
